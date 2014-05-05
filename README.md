@@ -1,0 +1,4 @@
+ClosedCombat
+============
+
+Minecraft Bukkit plugin
